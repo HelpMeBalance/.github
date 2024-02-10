@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to the HelpMeBalance project repository! This project encompasses HelpMeBalance application , designed to deliver a comprehensive and robust experience for different user segments. Below you'll find detailed information about each component and relevant links.
 
-### Team
+### Team Binary Bots
 - **Fares Brayek**
 - **Kacem Abdelbaki**
 - **Fedi Amori**
