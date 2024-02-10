@@ -12,7 +12,7 @@ Welcome to the HelpMeBalance project repository! This project encompasses HelpMe
 - **Tesnim Snene**
 
 
-### Frontend Applications
+### Applications
 - **Web App**
   - **language used**: 
 
