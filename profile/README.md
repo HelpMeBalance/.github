@@ -14,7 +14,7 @@ Welcome to the HelpMeBalance project repository! This project encompasses HelpMe
 
 ### Applications
 - **Web App**
-  - **language used** : Symfony (twig , php , css , scss)
+  - **language used** : Symfony (twig , php , css , scss , yaml)
 
 - **Desktop App**
   - **language used**: 
