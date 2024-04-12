@@ -6,10 +6,10 @@ Welcome to the HelpMeBalance project repository! This project encompasses HelpMe
 ### Team Binary Bots
 - **Fares Brayek**
 - **Kacem Abdelbaki**
+- **Tesnim Snene**
 - **Fedi Amori**
 - **Hend Zormati**
 - **Aziz Makhlouf**
-- **Tesnim Snene**
 
 
 ### Applications
@@ -17,7 +17,7 @@ Welcome to the HelpMeBalance project repository! This project encompasses HelpMe
   - **language used** : Symfony (twig , php , css , scss , yaml)
 
 - **Desktop App**
-  - **language used**: 
+  - **language used**: JavaFx (JAVA , CSS , fxml )
 
 ### Development Workflow
 - **Linear**: Track all tickets at Hero Labs on Linear
